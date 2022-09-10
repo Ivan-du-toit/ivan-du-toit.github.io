@@ -1,4 +1,4 @@
-me: Append article to reading list
+name: Append article to reading list
 
 on:
   repository_dispatch:
